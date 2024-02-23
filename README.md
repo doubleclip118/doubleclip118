@@ -15,6 +15,8 @@
 ### 💿 Database
 ![mysql](https://img.shields.io/badge/MySQL%20-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![postgresql](https://img.shields.io/badge/Postgresql%20-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![chromadb]([https://img.shields.io/badge/Postgresql%20-4169E1?style=flat-square&logo=postgresql&logoColor=white](https://seeklogo.com/images/C/chroma-logo-FB287847E7-seeklogo.com.png))
+
 ### 🐋 Study
 ![spring boot(study)](https://img.shields.io/badge/Spring%20boot%20-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 

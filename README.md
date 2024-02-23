@@ -6,7 +6,7 @@
 
 ### 🐥 Language
 ![Python](https://img.shields.io/badge/Python%20-3776AB?style=flat-square&logo=Python&logoColor=white)
-![C++](https://img.shields.io/badge/C++%20-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C++%20-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java%20-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript%20-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 ### 🔭 Backend

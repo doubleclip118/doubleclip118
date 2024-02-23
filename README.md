@@ -11,8 +11,9 @@
 ### 🔭 Backend
 ![spring boot(study)](https://img.shields.io/badge/Spring%20boot%20-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Fastapi](https://img.shields.io/badge/Fastapi%20-009688?style=flat-square&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/NAVER%20Cloud-03C75A?style=flat-square&logo=aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-#232F3E?style=flat-square&logo=aws&logoColor=white)
 ### 💿 Database
 ![mysql](https://img.shields.io/badge/MySQL%20-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![postgresql](https://img.shields.io/badge/MongoDB%20-47A248?style=flat-square&logo=postgresql&logoColor=white)
 
+<img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>
